@@ -8,7 +8,7 @@ In this project I have created some APIs for bank-branch system  created with Py
 ### • Create, update and delete banks and branches<br/>
 <img src= "./Images/get_all_bank.png"> <br/>
 ###  • View banks and branches <br/>
-###  •Beside that there is an customise api for search all branches of a perticular bank <br/>
+###  •Beside that there is an customize api for search all branches of a perticular bank <br/>
 api: http://localhost:8000/api/bank/1/branches <br/>
 <img src= "./Images/get_all_branch_postman.png"><br/>
 ### • Exception Handeling
@@ -28,5 +28,12 @@ api: http://localhost:8000/api/bank/1/branches <br/>
 The API is easy to use and understand, and it is well-documented with detailed instructions on how to use it.
 
 This API has been tested to ensure on postman.
+
+## Data Base Tables <br/>
+### Bank <br/>
+<img src= "./Images/db_bank.png"><br/>
+### Branch <br/>
+<img src= "./Images/db_branch.png"><br/>
+
 
 I hope you find this API useful.
